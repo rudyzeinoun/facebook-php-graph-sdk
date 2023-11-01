@@ -1,9 +1,9 @@
 {
-    "name": "rudyzeinoun/facebook-graph-sdk",
+    "name": "joelbutcher/facebook-graph-sdk",
     "description": "Facebook SDK for PHP",
     "keywords": ["facebook", "sdk", "php"],
     "type": "library",
-    "homepage": "https://github.com/rudyzeinoun/facebook-graph-sdk",
+    "homepage": "https://github.com/joelbutcher/facebook-graph-sdk",
     "license": "MIT",
     "authors": [
         {
